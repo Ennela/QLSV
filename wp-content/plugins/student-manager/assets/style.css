@@ -1,0 +1,46 @@
+/*
+ * CSS for Student Manager Plugin
+ */
+
+.sm-student-list-container {
+    overflow-x: auto;
+    margin-bottom: 20px;
+}
+
+.sm-student-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.sm-student-table thead tr {
+    background-color: #009879;
+    color: #ffffff;
+    text-align: left;
+}
+
+.sm-student-table th,
+.sm-student-table td {
+    padding: 12px 15px;
+    border: 1px solid #ddd;
+}
+
+.sm-student-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+.sm-student-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+.sm-student-table tbody tr:last-of-type {
+    border-bottom: 2px solid #009879;
+}
+
+.sm-student-table tbody tr:hover {
+    background-color: #f5f5f5;
+}
