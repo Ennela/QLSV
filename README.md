@@ -11,8 +11,8 @@
 
 ### 1. Giao diện Frontend (Danh sách sinh viên hiển thị qua Shortcode)
 *(Hình ảnh kết quả ngoài trang chủ)*
-![Frontend Result](assets/frontend.jpeg)
+![Frontend Result](wp-content/plugins/student-manager/assets/frontend.jpeg)
 
 ### 2. Giao diện Backend (Quản lý danh sách sinh viên trong trang Admin)
 *(Hình ảnh kết quả trong trang quản trị)*
-![Backend Result](assets/backend.jpeg)
+![Backend Result](wp-content/plugins/student-manager/assets/backend.jpeg)
